@@ -113,6 +113,7 @@ This dashboard helps:
 https://github.com/rahul-oss/Customer-Shopping-Behaviour-and-Sales-Analytics-Dashboard/blob/main/Overview%20Page.PNG
 https://github.com/rahul-oss/Customer-Shopping-Behaviour-and-Sales-Analytics-Dashboard/blob/main/Product%20Page.PNG
 https://github.com/rahul-oss/Customer-Shopping-Behaviour-and-Sales-Analytics-Dashboard/blob/main/Customer%20Page.PNG
+https://github.com/rahul-oss/Customer-Shopping-Behaviour-and-Sales-Analytics-Dashboard/blob/main/Market%20Page.PNG
 
 
 ---
