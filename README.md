@@ -111,6 +111,7 @@ This dashboard helps:
 ## 📸 Dashboard Preview
 
 https://github.com/rahul-oss/Customer-Shopping-Behaviour-and-Sales-Analytics-Dashboard/blob/main/Overview%20Page.PNG
+https://github.com/rahul-oss/Customer-Shopping-Behaviour-and-Sales-Analytics-Dashboard/blob/main/Product%20Page.PNG
 
 ---
 
